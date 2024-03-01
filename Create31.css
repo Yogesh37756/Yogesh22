@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(scania.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    font-family: sans-serif;
+}
+.From Stop{
+    width: 280px;
+    height: 370px;
+    background: #000;
+    color: #fff;
+    top:50%;
+}
+.register{
+    padding-left: 80%;
+}
+.navbar li a{
+    display: contents;
+    color: #000;
+}
+.search{
+padding-left: 70%;
+padding-top: 1%;
+width: 30%;
+}
+.navbar input{
+    width: 250px;
+}
